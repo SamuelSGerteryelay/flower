@@ -1,0 +1,81 @@
+ .head{
+    display: flex;
+    align-items:baseline;
+    justify-content:space-between;
+    background-color: black;
+
+}
+.Logo{
+    padding-left: 30px;
+    color: white;
+
+
+}
+.fs{
+    color: red;
+}
+.nav1{
+    padding-right: 40px;
+}
+.Home,
+.About,
+.Flower,
+.Contact{
+    padding-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+.Home{
+    color: red;
+    text-decoration: underline;
+}
+.Bg{
+    background-color:green;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.pp{
+    max-width: 40%;
+}
+.article1{
+    padding-left: 30px;
+}
+.img{
+    border-radius: 50%;
+    border: 6px solid white;
+    border-style: double;
+
+}
+.div2{
+    
+    display:flex;
+    gap: 2rf5;
+    background-color: bisque;
+    padding-left: 20px;
+    padding-right: 30px;
+    border-style:outset;
+    align-items: center;
+}
+.B1{
+    border-radius: 50%;
+    
+}
+.p3{
+    max-width: 70%;
+    padding-left: 50px;
+    
+
+    
+}
+.first{
+    margin-top: 150px;
+    margin-right: 200px;
+    
+}
+.w1{
+    color:white ;
+}
+.s1{
+    background-color: blueviolet;
+}
